@@ -1,2 +1,11 @@
-# Wheel of Jeopardy Project
- A game written in Python using the Pygame modules. The game is a cross between Jeopardy! and Wheel of Fortune. This was a group project.
+# githubTest
+A test repository.
+
+# Branch control:
+make new branch from master: \
+git checkout -b [some branch name]
+
+# Commit and Push:
+git add . # adds all the files, can also git add [filename] \
+git commit -a 'commit message' \
+git push
